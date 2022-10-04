@@ -15,7 +15,7 @@ export default [
       pt: 'Este arco é uma criação improvisada. Madeira não é um recurso abundante em algumas regiões, então os habitantes às vezes usam os materiais disponíveis para criar armas como esta.',
       zh: '這是個應急用的弓。有些地區並沒有豐富的木頭，因此有些居民會使用手邊的材料來製造此類武器。',
       tr: 'Bu yay derme çatma bir eser. Odun bazı bölgelerde bol bol bulunmaz, bu yüzden oranın sakinleri ellerindeki malzemelerle bu tip silahlar üretir.'
-    }
+    } ko: '이 활은 임시로 만든 것입니다. 일부 지역에서는 목재가 풍부한 자원이 아니므로 주민들은 때때로 에 있는 재료를 사용하여 다음과 같은 무기를 만듭니다.'
   },
 
   {
